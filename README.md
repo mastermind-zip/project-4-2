@@ -1,6 +1,6 @@
 # project-4-1
 
-This template should help get you started developing with Vue 3 in Vite.
+Project for searching books and leaving review about it. Created using Vue(on TS) and Google Books API.
 
 ## Recommended IDE Setup
 
